@@ -1,21 +1,13 @@
-# petshop
+# Pet Shop
+
+Starter code for My pet shop app. This basic app was used for the Vue Vixens code lab.
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Clone this repository `git push -u origin master`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Install dependencies `npm install`
 
-### Lints and fixes files
-```
-npm run lint
-```
+Start your project `npm run serve`
+
+
