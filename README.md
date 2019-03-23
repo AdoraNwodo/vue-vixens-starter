@@ -4,7 +4,7 @@ Starter code for My pet shop app. This basic app was used for the Vue Vixens cod
 
 ## Project setup
 
-Clone this repository `git push -u origin master`
+Clone this repository `git clone https://github.com/AdoraNwodo/vue-vixens-starter.git`
 
 Install dependencies `npm install`
 
